@@ -1,0 +1,8 @@
+Insight
+"The simulated dataset contains 1,500 shipments across five regions and four transport modes."
+Average actual delivery time is 5.59 days and the median is 5.35 days.
+The overall simulated delivery delay rate is 9.3%.
+"Average transportation cost is 247.72, with total simulated transportation cost of 371,580.62."
+"Distance and transportation cost have a correlation of 0.67, indicating that longer routes are an important cost driver."
+"Shipment volume and transportation cost have a correlation of 0.44, showing that heavier shipments tend to increase logistics cost."
+Road has the highest simulated delay rate at 10.0% among the transport modes.
